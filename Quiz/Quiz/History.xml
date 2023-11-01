@@ -1,0 +1,70 @@
+﻿<questions>
+	<question>
+		<text>В каком году состоялась Великая Октябрьская социалистическая революция?</text>
+		<options>
+			<option>1917</option>
+			<option>1918</option>
+			<option>1919</option>
+			<option>1920</option>
+		</options>
+		<correctAnswer>
+			<answer>1</answer>
+		</correctAnswer>
+	</question>
+
+	<question>
+		<text>Кто был последним императором Российской империи?</text>
+		<options>
+			<option>Александр II</option>
+			<option>Николай II</option>
+			<option>Петр I</option>
+			<option>Иван IV</option>
+		</options>
+		<correctAnswer>
+		<answer>2</answer>
+			</correctAnswer>
+	</question>
+
+	<question>
+		<text>Высшим должностным лицом Новгородской республики был:</text>
+		<options>
+			<option>Адиминистративный голова</option>
+			<option>Посадник</option>
+			<option>Тысяцкий</option>
+			<option>Боярин</option>
+		</options>
+		<correctAnswer>
+			<answer>2</answer>
+		</correctAnswer>
+	</question>
+
+
+	<question>
+		<text>Через какую из этих рек проходил торговый путь «из варяг в греки»?</text>
+		<options>
+			<option>Дунай</option>
+			<option>Вена</option>
+			<option>Волга</option>
+			<option>Днепр</option>
+		</options>
+		<correctAnswer>
+			<answer>4</answer>
+		</correctAnswer>
+	</question>
+
+
+	<question>
+		<text> В повести «Слово о полку Игореве» князь Игорь сражался:</text>
+		<options>
+			<option>С печенагами</option>
+			<option>С хазарами</option>
+			<option>С половцами</option>
+			<option>С варягами</option>
+		</options>
+		<correctAnswer>
+			<answer>3</answer>
+		</correctAnswer>
+	</question>
+
+
+</questions>

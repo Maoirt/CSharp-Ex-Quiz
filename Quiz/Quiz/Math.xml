@@ -1,0 +1,75 @@
+﻿<questions>
+	<question>
+		<text>1+1</text>
+		<options>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option>5</option>
+		</options>
+		<correctAnswer>
+			<answer>1</answer>
+
+		</correctAnswer>
+	</question>
+
+	<question>
+		<text>1-5*0</text>
+		<options>
+			<option>0</option>
+			<option>4</option>
+			<option>1</option>
+			<option>-1</option>
+		</options>
+		<correctAnswer>
+			<answer>3</answer>
+		</correctAnswer>
+	</question>
+
+	<question>
+		<text>2*2-4:</text>
+		<options>
+			<option>0</option>
+			<option>-2</option>
+			<option>2</option>
+			<option>4</option>
+		</options>
+		<correctAnswer>
+			<answer>1</answer>
+		</correctAnswer>
+	</question>
+
+
+	<question>
+		<text>5^2</text>
+		<options>
+			<option>25</option>
+			<option>5</option>
+			<option>-25</option>
+			<option>-5</option>
+		</options>
+		<correctAnswer>
+			<answer>1</answer>
+		</correctAnswer>
+	</question>
+
+
+	<question>
+		<text>100-900</text>
+		<options>
+			<option>-10</option>
+			<option>100</option>
+			<option>-800</option>
+			<option>800</option>
+		</options>
+		<correctAnswer>
+			<answer>3</answer>
+		</correctAnswer>
+	</question>
+
+
+
+
+
+
+</questions>

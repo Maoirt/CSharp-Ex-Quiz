@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXj7cKSI/bpIuUVh6LmkKvy+uNJRjGM6+GYGAyGdDsa8maXZZKAiRD3jCLAKGdw2kRcoiz7qhhl50lVnbeDccQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maoirt\\source\\repos\\Quiz\\Quiz\\Quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maoirt\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

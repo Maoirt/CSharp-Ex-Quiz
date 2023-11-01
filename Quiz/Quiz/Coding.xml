@@ -1,0 +1,68 @@
+﻿<questions>
+	<question>
+		<text>Сколько на данный момент существует языков программирования?</text>
+		<options>
+			<option>500</option>
+			<option>1000</option>
+			<option>250</option>
+			<option>8000</option>
+		</options>
+		<correctAnswer>
+			<answer>4</answer>
+		</correctAnswer>
+	</question>
+
+	<question>
+		<text>Для чего Джоном Маккарти был создан язык программирования Лисп?
+		</text>
+		<options>
+			<option>Для работ по искусственному интеллекту</option>
+			<option>Для управления бытовыми приборами</option>
+			<option>Для реализации компьютерной модели вселенной </option>
+			<option>Просто так</option>
+		</options>
+		<correctAnswer>
+			<answer>1</answer>
+		</correctAnswer>
+	</question>
+
+	<question>
+		<text>Является ли язык программирования Си объектно-ориентированным?</text>
+		<options>
+			<option>Да</option>
+			<option>Нет</option>
+		</options>
+		<correctAnswer>
+			<answer>1</answer>
+		</correctAnswer>
+	</question>
+
+
+	<question>
+		<text>Является ли язык программирования Java строго-типизированным?</text>
+		<options>
+			<option>Нет</option>
+			<option>Да</option>
+		</options>
+		<correctAnswer>
+			<answer>1</answer>
+		</correctAnswer>
+	</question>
+
+
+	<question>
+		<text>С какого языка началась традиция использования фразы «Hello, world!» в самой первой программе при изучении нового языка программирования?
+		</text>
+		<options>
+			<option>Си</option>
+			<option>С++</option>
+			<option>Питон</option>
+			<option>Джава</option>
+		</options>
+		<correctAnswer>
+			<answer>1</answer>
+		</correctAnswer>
+	</question>
+
+
+</questions>
